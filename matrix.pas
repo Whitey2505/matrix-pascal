@@ -1,4 +1,4 @@
-rogram fallingcode(output);
+Program fallingcode(output);
 
 var
    a,x,y,z,b : integer;
